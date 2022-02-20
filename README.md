@@ -1,2 +1,4 @@
 # Karpov_Courses_RFM_analysis
-Segmentation of users by RFM analysis
+## Segmentation of users by RFM analysis
+Проведение RFM анализ датасета. В каждом подсегменте производим деление пользователей на 4 класса. 
+Количество дней, прошедших с момента последней покупки осуществляем с максимальной даты покупки в датасете.
